@@ -1,1 +1,32 @@
-
+{
+  "games": [
+    {
+      "id": "123456",
+      "name": "Game One",
+      "icon": "https://example.com/gameone_icon.png",
+      "description": "An exciting first game.",
+      "file_links": {
+        "manifest": "path/to/gameone_manifest.vdf",
+        "lua": "path/to/gameone_script.lua"
+      },
+      "additional_info": {
+        "developer": "Dev One",
+        "release_date": "2023-01-01"
+      }
+    },
+    {
+      "id": "654321",
+      "name": "Game Two",
+      "icon": "https://example.com/gametwo_icon.png",
+      "description": "The thrilling sequel.",
+      "file_links": {
+        "manifest": "path/to/gametwo_manifest.vdf",
+        "lua": "path/to/gametwo_script.lua"
+      },
+      "additional_info": {
+        "developer": "Dev Two",
+        "release_date": "2024-05-15"
+      }
+    }
+  ]
+}
