@@ -11,8 +11,7 @@
           "https://example.com/another_manifest.manifest"
         ],
         "lua_files": [
-          "https://raw.githubusercontent.com/User-Name123115/For-Steam-Tools/refs/heads/main/Games/DARK%20SOULS%E2%84%A2%20III/374320.lua",
-          "https://example.com/another_script.lua"
+          "https://raw.githubusercontent.com/User-Name123115/For-Steam-Tools/refs/heads/main/Games/DARK%20SOULS%E2%84%A2%20III/374320.lua"
         ]
       }
     },
