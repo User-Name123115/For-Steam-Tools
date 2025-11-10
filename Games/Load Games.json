@@ -3,13 +3,13 @@
     {
       "id": "374321",
       "name": "DARK SOULS™ III",
-      "icon": "https://example.com/icons/darksouls3.png",
+      "icon": "https://raw.githubusercontent.com/User-Name123115/For-Steam-Tools/refs/heads/main/Games/Images/Dark%20Souls%20III.png",
       "description": "Action RPG developed by FromSoftware.",
       "file_links": {
         "manifests": [
           "https://github.com/User-Name123115/For-Steam-Tools/raw/refs/heads/main/Games/DARK%20SOULS%E2%84%A2%20III/374321_6652575487689169560.manifest",
           "https://github.com/User-Name123115/For-Steam-Tools/raw/refs/heads/main/Games/DARK%20SOULS%E2%84%A2%20III/506971_266039425715139370.manifest",
-          "https://example.com/another_manifest.manifest"
+          "https://github.com/User-Name123115/For-Steam-Tools/raw/refs/heads/main/Games/DARK%20SOULS%E2%84%A2%20III/506970_2441039608905796121.manifest"
         ],
         "lua_files": [
           "https://raw.githubusercontent.com/User-Name123115/For-Steam-Tools/refs/heads/main/Games/DARK%20SOULS%E2%84%A2%20III/374320.lua"
